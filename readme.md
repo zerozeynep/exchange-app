@@ -1,0 +1,1 @@
+A simple application to follow EUR to USD increases and decreases. 
