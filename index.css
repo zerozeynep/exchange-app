@@ -1,0 +1,19 @@
+.decrease {
+  color:#850000 ;
+  background-color:#EFBCBC ;
+}
+
+.increase {
+  background-color: #99CA86;
+  color: #38841A;
+
+}
+
+.constant {
+  color: blue;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
