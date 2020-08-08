@@ -1,4 +1,4 @@
-setInterval(getRates,10000)
+setInterval(getRates,30000)
 
 let latestValues = []
 
